@@ -4,7 +4,8 @@ Você poderá encontrar neste repositório, conteúdo sobre a dinâmica SOLO-PLA
 A figura ilustra o processo de manejo de irrigação, destacando em seguida uma lista dos desafios de irrigação.
 
 
-| Desafios 
+| Desafios ! Soluções |
+| Desafios ! Soluções |
 
 O objetivo principal é buscar ferramentas na computação que contribua para a otimização do uso da água para o manejo de irrigação.
 
